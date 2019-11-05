@@ -1,0 +1,10 @@
+
+<FaceBook>
+
+<UserName>//input[@id='email']</UserName>
+
+<Password>//input[@id='pass']</Password>
+
+<SignIn>//*[@id='loginbutton']</SignIn>
+
+</FaceBook>
